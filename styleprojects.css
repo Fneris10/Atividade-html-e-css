@@ -1,0 +1,102 @@
+body
+{
+    background-color: #0202029d;
+    
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+h1
+{
+    color: rgb(48, 42, 59);
+    text-align: center;
+    font-family: arial, verdana, sans-serif;
+}
+
+p
+{
+    color: rgb(0, 0, 0);
+    font-family: "Times New Roman", serif;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 30px;
+    text-indent: 30px;
+    text-align: justify;
+    letter-spacing: 5px;
+}
+
+span
+{
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+
+h2
+{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+a
+{
+    color: rgb(0, 0, 0);
+}
+
+a:visited
+{
+    color: purple;
+}
+
+a:hover
+{
+    color: red;
+    text-decoration: overline;
+    letter-spacing: 5px;
+    font-weight: 900;
+}
+
+a.branco
+{
+    color: grey;
+}
+a.tinto
+{
+    color: purple;
+}
+a.tinto:hover
+{
+    color: red;
+}
+
+.textovinhos
+{
+    font-size: 15px;
+    color: purple;
+    letter-spacing: 2px;
+}
+
+#merlot
+{
+    color: black;
+}
+
+#sec1
+{
+    width: 50%;
+    border: 2px solid black;
+}
+
+#h1
+{
+    padding: 0px 00px 0px 0px;
+    margin: 10px 255px 30px 8px;
+    text-align: left;
+    border: 2px solid black;
+}
+
+#p1
+{
+    margin: 10px 30px 10px 30px;
+    padding: 10px 70px 8px 8px;
+    border: 2px dotted black;
+}
